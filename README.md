@@ -7,7 +7,7 @@
 - 💞️ I’m looking to collaborate on any software development project (preferrably through an internship).
 
 - 📫 How to reach me ... 
-Email - utkarshbhardwaj_2k18co379@dtu.ac.in
+Email - ub2262000@gmail.com
 LinkedIn - https://www.linkedin.com/in/utkarsh-bhardwaj-5b2568175/
 
 <!---
