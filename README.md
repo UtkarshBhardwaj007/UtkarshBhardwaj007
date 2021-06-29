@@ -8,7 +8,7 @@
 
 - 📫 How to reach me ... 
 Email - ub2262000@gmail.com
-LinkedIn - https://www.linkedin.com/in/utkarsh-bhardwaj-5b2568175/
+LinkedIn - https://www.linkedin.com/in/utkarshbhardwaj00/
 
 <!---
 UtkarshBhardwaj007/UtkarshBhardwaj007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
