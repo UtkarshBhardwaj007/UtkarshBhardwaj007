@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning web development (MERN stack to be exact) so as to be completely capable of deploying websites with a ML backend on my own as a full stack developer.
 
-- 💞️ I’m looking to collaborate on any software development project (preferrably through an internship).
+- 💞️ I’m looking to collaborate through a job preferrably in the following profiles Software Development Engineer or Data Engineer.
 
 - 📫 How to reach me ... 
 Email - ub2262000@gmail.com
